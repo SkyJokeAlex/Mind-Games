@@ -1,0 +1,1 @@
+<a href="https://codeclimate.com/github/SkyJokeAlex/Mind-Games/maintainability"><img src="https://api.codeclimate.com/v1/badges/91957aa8f33977f25641/maintainability" /></a>
